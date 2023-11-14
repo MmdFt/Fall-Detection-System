@@ -62,6 +62,4 @@ The project provides a comprehensive analysis of each model's performance, inclu
 ## Conclusion
 This fall detection project holds great promise for applications in healthcare, safety monitoring, and more. By combining the power of machine learning, feature extraction, and ensemble modeling, it offers an efficient and accurate solution for fall detection. Feel free to explore the code and results, and your feedback and contributions are highly encouraged.
 
-
-![alt text](https://github.com/MmdFt/Fall-Detection-System/blob/master/Models'%20preformance%20summary.png?raw=true)
-
+![Models' preformance summary](https://github.com/MmdFt/Fall-Detection-System/assets/89515377/4ed6e458-a791-4862-94b1-21cf2f69211e)
