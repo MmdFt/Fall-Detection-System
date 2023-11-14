@@ -40,6 +40,7 @@ Before running the code, make sure to install the required libraries using pip:
 
 ```bash
 pip install scikit-learn tensorFlow pandas numpy
+```
 
 ## Data
 The code downloads and utilizes two datasets: SisFall_dataset and SisFall_enhanced. These datasets are used for training and testing the fall detection models.
